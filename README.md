@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that demonstrates an uncommon error handling scenario. The function `myFunction` calls another function `someCalculation`. Both functions can potentially throw errors under certain conditions.  The `bug.m` file contains the buggy code that needs improvement, whereas `bugSolution.m` provides a robust solution.
